@@ -1,4 +1,4 @@
-# https://www.codewars.com/kata/6512b3775bf8500baea77663/train/python
+# CodeWars: https://www.codewars.com/kata/6512b3775bf8500baea77663/train/python
 
 import unittest
 
